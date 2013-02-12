@@ -2,7 +2,7 @@
 
 !SLIDE marker
 
-# I want to talk to you about emotion
+# I need to talk to you about emotion.
 
 !SLIDE marker
 
@@ -16,7 +16,7 @@
 
 !SLIDE marker
 
-## Facebook Graph Search: 'Like' is not an emotion.
+## Facebook Graph Search: 'Like' is not an emotion, nor is it creation.
 
 !SLIDE marker
 
@@ -28,7 +28,7 @@
 
 !SLIDE marker
 
-## Can linked data be a way to manifest our emotion?
+## Can linked data be a way to manifest our emotion? 
 
 !SLIDE marker
 
@@ -41,7 +41,7 @@
 
 !SLIDE marker 
 
-### I want us to be able to write stories about the real things in our collections to build an emotional connection
+### Can we write stories about the [real world objects](http://www.w3.org/TR/2007/WD-cooluris-20071217/#semweb) in our collections to build those emotional connections?
 
 !SLIDE marker 
 
@@ -49,4 +49,22 @@
 
 !SLIDE marker 
 
-## (let's leverage rdf etc etc)
+## Why can't we use the linked data we're already using &amp; creating be used in fictional narratives and parafiction?
+
+!SLIDE marker
+
+## Do we worry about provenance?
+
+!SLIDE marker
+
+## Do we worry about the disinction between information, misinformation, and disinformation?
+
+!SLIDE marker
+
+## How will affect impact our narratives when they merge with knowledge organization systems?
+
+!SLIDE marker
+
+## Let's build this.
+### mark@matienzo.org
+### @anarchivist
