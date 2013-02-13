@@ -13,6 +13,9 @@
 
 @import url(http://fonts.googleapis.com/css?family=Permanent+Marker);
 
+body {
+  background: #4b0082;
+}
 .keydown.deck-container .slide {
   background: #4b0082;
 }
