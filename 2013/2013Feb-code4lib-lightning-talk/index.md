@@ -2,7 +2,7 @@
 
 !SLIDE marker
 
-# We need to talk. About emotion.
+# I need to talk to you about emotion.
 
 !SLIDE marker
 
