@@ -55,7 +55,7 @@
 
 !SLIDE marker
 
-## Don't about the pushback from the Semantic Web community.
+## Don't about worry the pushback from the Semantic Web community.
 
 !SLIDE marker 
 
@@ -63,7 +63,7 @@
 
 !SLIDE marker 
 
-## Linked data we're already using &amp; creating should be used in and augmented by in fictional narratives and parafiction.
+## Linked data we're already using &amp; creating should be used in and augmented by fictional narratives and parafiction.
 
 !SLIDE marker
 
