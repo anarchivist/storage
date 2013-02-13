@@ -2,7 +2,7 @@
 
 !SLIDE marker
 
-# I need to talk to you about emotion.
+# We need to talk. About emotion.
 
 !SLIDE marker
 
@@ -61,7 +61,7 @@
 
 !SLIDE marker
 
-## How will affect impact our narratives when they merge with knowledge organization systems?
+## How will knowledge organization systems impact the affect of our narratives when merged together?
 
 !SLIDE marker
 
