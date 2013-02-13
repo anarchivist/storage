@@ -13,12 +13,15 @@
 
 @import url(http://fonts.googleapis.com/css?family=Permanent+Marker);
 
+.keydown.deck-container .slide {
+  background: #4b0082;
+}
 .slide.marker .content h1,
 .slide.marker .content h2,
 .slide.marker .content h3,
 .slide.marker .content h4 {
   -webkit-transform: rotate(-5deg);
-  color: #4b0082;
+  color: white;
   font-style: italic;
   font-family: "Permanent Marker", serif;
 }
