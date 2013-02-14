@@ -39,10 +39,7 @@
 !SLIDE marker
 
 ## Can we gain control of our graphs?
-
-!SLIDE marker
-
-## Can linked data be a way to manifest our emotion? 
+## Can linked data be a way to amplify our emotion? 
 
 !SLIDE marker 
 
