@@ -1,4 +1,4 @@
-EVER TO EXCEL: TOWARDS AN APOLOGETICS OF THE SPREADSHEET<BR/><BR/>MARK A. MATIENZO<br/>CODE4LIB 2016
+EVER TO EXCEL: TOWARDS AN APOLOGETICS OF THE SPREADSHEET<br/><br/>MARK A. MATIENZO<br/>@ANARCHIVIST<br/>CODE4LIB 2016
 
 ![](spreadsheet-mug.jpg) <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>[ORIGINAL PHOTO BY CRAIG MOULDING](http://www.flickr.com/photos/craigmoulding/8399214678/)
 
