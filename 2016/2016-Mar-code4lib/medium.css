@@ -59,6 +59,18 @@ div {
   color: #418AD0;
 }
 
+.blink {
+    animation-duration: 2s;
+    animation-name: blink;
+    animation-iteration-count: infinite;
+    animation-timing-function: steps(2, start);
+}
+@keyframes blink {
+    80% {
+        visibility: hidden;
+    }
+}
+
 /*
 
 Google Code style (c) Aahan Krish <geekpanth3r@gmail.com>
