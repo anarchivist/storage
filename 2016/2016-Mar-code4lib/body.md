@@ -1,4 +1,4 @@
-EVER TO EXCEL: TOWARDS AN APOLOGETICS OF THE SPREADSHEET<br/><br/>MARK A. MATIENZO<br/>@ANARCHIVIST<br/>CODE4LIB 2016
+EVER TO EXCEL: TOWARDS AN APOLOGETICS OF THE <blink>SPREADSHEET</blink><br/><br/>MARK A. MATIENZO<br/>@ANARCHIVIST<br/>CODE4LIB 2016
 
 ![](spreadsheet-mug.jpg) <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>[ORIGINAL PHOTO BY CRAIG MOULDING](http://www.flickr.com/photos/craigmoulding/8399214678/)
 
@@ -36,4 +36,4 @@ SPREADSHEETS AND CO&#8209;DEVELOPMENT: BRIDGING DOMAIN KNOWLEDGE
 
 HOW DO WE GET THERE?
 
-&#xE080; THANKS! &#xE010; <br/><br/>@ANARCHIVIST<BR/>MATIENZO.ORG
+&#xE080; THANKS! &#xE010; <br/><br/>@ANARCHIVIST<BR/>MATIENZO.ORG<br/>bit.ly/c4l16&#8209;sheets
